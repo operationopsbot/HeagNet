@@ -1,6 +1,6 @@
 # Simultaneously Detecting Node and Edge Level Anomalies on Heterogeneous Attributed Graphs
 
-This repository contains the experimental source code of the [*Simultaneously Detecting Node and Edge Level Anomalies on Heterogeneous Attributed Graphs*](https://engineering.grab.com/graph-anomaly-model) paper presented at the [IEEE World Congress on Computational Intelligence (WCCI) 2024](https://2024.ieeewcci.org/). 
+This repository contains the experimental source code of the **"Simultaneously Detecting Node and Edge Level Anomalies on Heterogeneous Attributed Graphs"** paper presented at the [IEEE World Congress on Computational Intelligence (WCCI) 2024](https://2024.ieeewcci.org/). 
 
 Authors: [Rizal Fathony](mailto:rizal.fathony@grab.com), [Jenn Ng](mailto:jenn.ng@grab.com), and [Jia Chen](mailto:jia.chen@grab.com).
 
